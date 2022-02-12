@@ -1,4 +1,4 @@
-# MNIST-Digit-Recognizer-Kaggle-Competition
+# MNIST-Digit-Recognizer
 1. Fit a random forest classifier using the full set of explanatory variables and the model training set (csv).
 2. Record the time it takes to fit the model and then evaluate the model on the csvdata by submitting to Kaggle.com. Provide your Kaggle.com score and user ID.
 3. Execute principal components analysis (PCA) on the combined training and test set data together, generating principal components that represent 95 percent of the variability in the explanatory variables. The number of principal components in the solution should be substantially fewer than the explanatory variables.
